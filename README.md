@@ -1,0 +1,2 @@
+# Vida-Resolusi
+Rencana kedepannya
