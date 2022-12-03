@@ -4,6 +4,7 @@ RENCANA KONTEN VIDA
 *ES6
 *Framework Javascript
  ^Vue
+ ^React
 -Struktur data dasar
 -PHP frameworks
  ^Laravel
