@@ -3,7 +3,10 @@ RENCANA KONTEN VIDA
 -Javascript
 *ES6
 *Framework Javascript
+ ^Vue
 -Struktur data dasar
 -PHP frameworks
+ ^Laravel
 -Interview
 -Vlog
+-Python
