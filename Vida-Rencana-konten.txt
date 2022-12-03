@@ -1,6 +1,8 @@
 RENCANA KONTEN VIDA
 
 -Javascript
+*ES6
+*Framework Javascript
 -PHP frameworks
 -Interview
 -Vlog
